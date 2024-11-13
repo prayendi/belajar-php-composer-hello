@@ -5,7 +5,8 @@
     "type": "library",
     "authors": [
         {
-            "name": "Endi Prayitno"
+            "name": "Endi Prayitno",
+            "email": "healthclop@gmail.com"
         }
     ],
     "autoload": {
