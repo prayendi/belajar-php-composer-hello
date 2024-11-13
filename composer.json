@@ -1,0 +1,19 @@
+{
+    "name": "prayendi/composer-php-hello",
+    "version": "1.0.0",
+    "description": "Composer PHP Hello",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Endi Prayitno"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Prayendi\\Learn\\" : "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
